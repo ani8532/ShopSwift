@@ -1,39 +1,22 @@
-Great! Here's a complete and professional `README.md` for your deployed **ShopSwift** e-commerce app — tailored for GitHub and Vercel deployment.
+ 🛍️ ShopSwift - Modern E-Commerce Web App
 
----
-
-## ✅ `README.md`
-
-```markdown
-# 🛍️ ShopSwift - Modern E-Commerce Web App
-
-![ShopSwift Logo](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel)
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Vite%20%7C%20MUI%20%7C%20i18next%20%7C%20Vercel-blue)
 
 > A blazing fast, modern e-commerce frontend built with React + Vite, featuring multilingual support, dark mode, cart management, and a smooth checkout flow.
 
----
+🔗 Live Demo
 
-### 🔗 Live Demo
-
-🌐 **[Visit ShopSwift on Vercel](https://shop-swift-aniket.vercel.app)**  
-*(replace with your final domain once added)*
-
----
+🌐 [Visit ShopSwift on Vercel]  https://shop-swift-aniket.vercel.app
 
 ## ⚙️ Features
 
 - 🧭 **Fast Vite-based setup**
 - 🛒 **Cart system with add/remove/clear**
 - 🔍 **Search products by name**
-- 🌐 **Language switcher (English + Hindi)**
 - 🌙 **Dark/light theme toggle**
 - 💳 **Checkout screen with summary and total**
 - 📦 **Fully responsive UI using MUI (Material UI)**
 
----
-
-## 🛠️ Tech Stack
+ Tech Stack
 
 - **Frontend:** React.js, Vite, MUI
 - **State Management:** React Context + useReducer
@@ -41,11 +24,7 @@ Great! Here's a complete and professional `README.md` for your deployed **ShopSw
 - **Routing:** React Router v6+
 - **Deployment:** Vercel
 
----
-
 ## 📁 Folder Structure
-
-```
 
 ShopSwift/
 ├── public/
@@ -61,9 +40,6 @@ ShopSwift/
 ├── package.json
 └── vite.config.js
 
-````
-
----
 
 ## 🚀 Getting Started Locally
 
@@ -94,10 +70,7 @@ Then visit: `http://localhost:5173`
    * **Output directory:** `dist`
 5. Click **Deploy** ✨
 
----
 
-
----
 
 ## 👨‍💻 Author
 
